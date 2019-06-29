@@ -255,6 +255,11 @@ p.description {
   color: #777777;
 }
 
+p.text-white {
+  font-size: 16px;
+  color: #ffffff;
+}
+
 a:hover, a:focus {
   text-decoration: none;
 }
@@ -1117,7 +1122,7 @@ a,
   background: #50236F;
 }
 .filter.filter-color-red:before {
-  background: #4A9130;
+  background: #1e6604;
 }
 .filter.filter-gradient-black:before {
   background: #1f1c2c;
