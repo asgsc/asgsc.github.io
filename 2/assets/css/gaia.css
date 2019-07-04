@@ -2628,9 +2628,10 @@ a,
 
 .image-firma {
   display: block;
-  width: 200px;
+  max-width: 350px;
   margin-right: auto;
   margin-left: auto;
+  padding-top: 30px;
 }
 
 .image-firma img,
