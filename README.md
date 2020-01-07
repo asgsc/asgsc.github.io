@@ -1,86 +1,68 @@
-# [Gaia Bootstrap Template](http://demos.creative-tim.com/gaia-bootstrap-template/freebie.html)
+# [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
 
-![alt tag](http://s3.amazonaws.com/creativetim_bucket/products/45/original/opt_gbt_thumbnail.jpg)
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
-Gaia Bootstrap Template is an one page Bootstrap Template built with components from [Gaia Bootstrap Template PRO](http://demos.creative-tim.com/gaia-bootstrap-template-pro/index.html). Use it FREE for you or for your clients :-)
+## Preview
 
-It comes with 5 colors from the default Bootstrap Style Primary (gold), Info (blue), Success (green), Warning (orange), Danger (Red).
+[![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
 
-Gaia is also the name of the Greek goddess of Earth, which was one of the inspiration for this template. All color tones used throughout the template are found through nature, soft for the eyes and visually appealing. The main variations follow shades of brown and black. The typography has a light feel and we made use of edge-to-edge images wherever we could.
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
 
-Besides the templates that you can use as they are, just changing the images and text, Gaia also has room for customization. The color options for the buttons make it easy for you to choose what best fits your needs. According to the main color palette, you will also find multiple filters, text variations and labels.
+## Status
 
-Icons are provided by [Pixeden](http://themes-pixeden.com/font-demos/7-stroke/).
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-freelancer)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-freelancer?type=dev)
 
-We are excited to share with you this template and we are eager to hear your feedback. We are hoping it will be as much fun for you to use it as it was for us to create it.
+## Download and Installation
 
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/freelancer/)
+* Install via npm: `npm i startbootstrap-freelancer`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-freelancer)
 
-## Links:
+## Usage
 
-+ [Live Preview](http://demos.creative-tim.com/gaia-bootstrap-template/freebie.html)
-+ [PRO Version](http://demos.creative-tim.com/gaia-bootstrap-template-pro/index.html) (from $29)
+### Basic Usage
 
-## Quick start
+After downloading, simply edit the HTML and CSS files included with the template in a code editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-Quick start options:
+### Advanced Usage
 
-- [Download from Github](https://github.com/timcreative/gaia-bootstrap-template/releases/tag/v1.0).
-- [Download from Creative Tim](http://www.creative-tim.com/product/gaia-bootstrap-template).
-- Clone the repo: `git clone https://github.com/timcreative/gaia-bootstrap-template.git`.
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
+#### Gulp Tasks
 
-### What's included
+- `gulp` the default task that builds everything
+- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+- `gulp js` minifies the themes JS file
+- `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-Within the download you'll find the following directories and files:
+You must have npm and Gulp installed globally in order to use these features.
 
-```
-gaia-bootstrap-template/
-├── assets/
-|   ├── css/
-|   |   ├── bootstrap.css
-|   |   ├── demo.css
-|   |   ├── fonts/
-|   |   └── gaia.css
-|   ├── fonts/
-|   ├── js/
-|   |   ├── bootstrap.js
-|   |   ├── gaia.js
-|   |   ├── jquery.min.js
-|   |   └── modernizr.js
-|   ├── sass (coming soon)
-|   └── img/
-├── freebie.html
+## Bugs and Issues
 
-```
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
 
-### Version logs
+## About
 
-V1.0.0 - 14 May 2016 initial release
-V1.0.1 - 10 Feb 2017 switched to MIT license.
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-### License
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
 
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/gaia-bootstrap-template/blob/master/LICENSE.md)
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-## Useful Links
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-More products from Creative Tim: <http://www.creative-tim.com/products>
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
+## Copyright and License
 
-Freebies: <http://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
